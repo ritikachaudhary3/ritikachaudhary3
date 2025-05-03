@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ritika Chaudhary 👋
 
-<!--
-**ritikachaudhary3/ritikachaudhary3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** focused on building responsive, user-friendly web applications.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React.js, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me:
+- 🔭 Currently working on sharpening my frontend skills and building exciting web projects.
+- 🌱 Always learning new technologies and best practices.
+- 💬 Open to collaboration on web development projects.
+
+---
+
+📫 Feel free to connect with me!
+
