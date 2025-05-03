@@ -1,4 +1,4 @@
-# Hi there, I'm Ritika Chaudhary 👋
+# Hi, I'm Ritika Chaudhary 👋
 
 I'm a passionate **Frontend Developer** focused on building responsive, user-friendly web applications.
 
