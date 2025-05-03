@@ -7,11 +7,14 @@ I'm a passionate **Frontend Developer** focused on building responsive, user-fri
 - **Frameworks/Libraries:** React.js, Tailwind CSS
 
 ### 🚀 About Me:
-- 🔭 Currently working on sharpening my frontend skills and building exciting web projects.
+- 🔭 I'm expanding into backend development with **Node.js** and **Express.js**, aiming to create full-stack, high-performance web applications.
+- Building full-stack web apps combining frontend and backend skills
 - 🌱 Always learning new technologies and best practices.
 - 💬 Open to collaboration on web development projects.
 
+
 ---
 
-📫 Feel free to connect with me!
+ 📫 You can reach me at: chaudharyritika313@gmail.com
+
 
