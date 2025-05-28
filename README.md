@@ -7,7 +7,7 @@ I'm a passionate **Frontend Developer** focused on building responsive, user-fri
 - **Frameworks/Libraries:** React.js, Tailwind CSS
 
 ### 🚀 About Me:
-- 🔭 I'm expanding into backend development with **Node.js** and **Express.js**, aiming to create full-stack, high-performance web applications.
+- 🔭 I'm expanding into backend development with **Express.js** and **MongoDB**, aiming to create full-stack, high-performance web applications.
 - Building full-stack web apps combining frontend and backend skills
 - 🌱 Always learning new technologies and best practices.
 - 💬 Open to collaboration on web development projects.
