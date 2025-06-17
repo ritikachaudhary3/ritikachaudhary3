@@ -1,10 +1,10 @@
 # Hi, I'm Ritika Chaudhary 👋
 
-I'm a passionate **Frontend Developer** focused on building responsive, user-friendly web applications.
+I'm a passionate **Mern Stack Developer** focused on building responsive, user-friendly web applications.
 
 ### 💻 Tech Stack:
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Tailwind CSS
+- **Frameworks/Libraries:** React.js, Tailwind CSS, Express Js, MongoDB
 
 ### 🚀 About Me:
 - 🔭 I'm expanding into backend development with **Express.js** and **MongoDB**, aiming to create full-stack, high-performance web applications.
